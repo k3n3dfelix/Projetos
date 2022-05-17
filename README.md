@@ -1,4 +1,4 @@
-# ![Projetos](imgs/projetos.png)
+# ![Projetos](projetos.jpg)
 
 ## 🖱️
 
@@ -16,14 +16,12 @@
 
 - [Inicie no mundo open source](https://github.com/levxyca/inicie-no-mundo-open-source) :computer_mouse: Um repositório para te introduzir no mundo open source.
 
-- [Principais TAGS "Estruturais" do HTML5](https://github.com/levxyca/tags-estruturais-html5) :computer_mouse: Esse repositório tem como objetivo reunir as principais tags "estruturais" do HTML5 e explicá-las de uma forma simples.
-
 ## Front End
 
 ### Angular
 
 - [Bankline App](https://github.com/k3n3dfelix/bankline-app) :computer_mouse: pp Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
-- 
+
 ### React
 - [GitHub Explorer](https://github.com/k3n3dfelix/RocketSeat/tree/main/reactjs/01-github-explorer) :computer_mouse: Consumo de uma API do GitHub.
 
@@ -40,6 +38,6 @@
 #### PHP
 
 - [Agend](https://github.com/k3n3dfelix/sis_agendamento) :computer_mouse: Sistema de Agendamento de Aulas.
-- 
+
 #### JavaScript
 
