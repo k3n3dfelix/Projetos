@@ -14,7 +14,6 @@
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) :computer_mouse: Api com a finalidade de fornecer um serviço financeiro.
 
-- [Inicie no mundo open source](https://github.com/levxyca/inicie-no-mundo-open-source) :computer_mouse: Um repositório para te introduzir no mundo open source.
 
 ## Front End
 
