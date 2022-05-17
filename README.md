@@ -40,3 +40,4 @@
 
 #### JavaScript
 
+- [To-Do App](https://github.com/knowther/todo-listapp) <a href="https://knowther.github.io/todo-listapp/"a>Link projeto publicado</a>:computer_mouse: Sistema de Agendamento de Aulas.
