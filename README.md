@@ -18,6 +18,8 @@
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) :computer_mouse: Api com a finalidade de fornecer um serviço financeiro.
 
+- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) :computer_mouse: Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes.
+
 
 ## Front End
 
@@ -32,10 +34,17 @@
 
 - [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> :computer_mouse: App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
 
+- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) :computer_mouse: Sistema para consumo da API de gerenciamento financeiro Algamoney - Em Desenvolvimento.
+
+
 ### React
 - [GitHub Explorer](https://github.com/k3n3dfelix/RocketSeat/tree/main/reactjs/01-github-explorer) :computer_mouse: Consumo de uma API do GitHub.
 
 - [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) :computer_mouse: Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
+
+- [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - Em Desenvolvimento.
+
+- [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações - Em Desenvolvimento.
 
 ## Full Stack
 
@@ -43,7 +52,7 @@
 
 - [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) :computer_mouse: Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
 
-- [Brewer](https://github.com/k3n3dfelix/Brewer) :computer_mouse: Sistema Web Gerenciamento de Vendas de Bebidas.
+- [Brewer](https://github.com/k3n3dfelix/Brewer) :computer_mouse: Sistema Web Gerenciamento de Vendas de Bebidas - Em Desenvolvimento.
 
 #### PHP
 
