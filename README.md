@@ -36,8 +36,8 @@
 
 #### PHP
 
-- [Agend](https://github.com/k3n3dfelix/sis_agendamento) :computer_mouse: Sistema de Agendamento de Aulas.
+- [Agend](https://github.com/k3n3dfelix/sis_agendamento) - <a href="http://sisagendamento.herokuapp.com/login">Link projeto publicado </a> :computer_mouse: Sistema de Agendamento de Aulas.
 
 #### JavaScript
 
-- [To-Do App](https://github.com/knowther/todo-listapp) <a href="https://knowther.github.io/todo-listapp/"a>Link projeto publicado</a>:computer_mouse: Sistema de Agendamento de Aulas.
+- [To-Do App](https://github.com/knowther/todo-listapp) - <a href="https://knowther.github.io/todo-listapp/">Link projeto publicado </a> :computer_mouse: Sistema de controle de tarefas a fazer.
