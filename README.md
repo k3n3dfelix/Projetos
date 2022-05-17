@@ -30,7 +30,7 @@
 
 ### Angular
 
-- [Bankline App](https://github.com/k3n3dfelix/bankline-app) :computer_mouse: App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
+- [Bankline App](https://github.com/k3n3dfelix/bankline-app) <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> :computer_mouse: App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
 
 ### React
 - [GitHub Explorer](https://github.com/k3n3dfelix/RocketSeat/tree/main/reactjs/01-github-explorer) :computer_mouse: Consumo de uma API do GitHub.
