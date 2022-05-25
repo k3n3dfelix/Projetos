@@ -40,7 +40,7 @@
 ### React
 - [GitHub Explorer](https://github.com/k3n3dfelix/RocketSeat/tree/main/reactjs/01-github-explorer) :computer_mouse: Consumo de uma API do GitHub.
 
-- [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) :computer_mouse: Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
+- [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) - <a href="[https://k3n3dfelix.github.io/CheckpointI-FrontEndII/](https://ken-dtmoney.herokuapp.com/)">Link projeto publicado </a> :computer_mouse: Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
 
 - [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - Em Desenvolvimento.
 
