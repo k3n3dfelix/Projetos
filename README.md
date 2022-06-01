@@ -44,7 +44,7 @@
 
 - [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - Em Desenvolvimento.
 
-- [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações - Em Desenvolvimento.
+- [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações.
 
 ## Full Stack
 
