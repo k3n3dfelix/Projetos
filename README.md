@@ -52,7 +52,7 @@
 
 - [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) :computer_mouse: Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
 
-- [Brewer](https://github.com/k3n3dfelix/Brewer) :computer_mouse: Sistema Web Gerenciamento de Vendas de Bebidas - Em Desenvolvimento.
+- [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - Em Desenvolvimento.
 
 #### PHP
 
