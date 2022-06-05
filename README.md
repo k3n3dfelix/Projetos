@@ -46,6 +46,8 @@
 
 - [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações.
 
+- [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) :computer_mouse: Aplicação com finalidade de manter um catalogo de produtos na WEb.
+
 ## Full Stack
 
 #### Java
