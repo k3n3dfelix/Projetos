@@ -18,7 +18,7 @@
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) :computer_mouse: Api com a finalidade de fornecer um serviço financeiro.
 
-- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) :computer_mouse: Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - Em Desenvolvimento.
+- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) :computer_mouse: Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento.</b>
 
 
 ## Front End
