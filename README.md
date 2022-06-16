@@ -10,15 +10,15 @@
 
 ### Java
 
-- [API Alga-CRM](https://github.com/k3n3dfelix/algacrm-api) :computer_mouse: Api simples Com Finalidade de Manter Dados de Clientes.
+- [API Alga-CRM](https://github.com/k3n3dfelix/algacrm-api) 👨‍💻 - Api simples Com Finalidade de Manter Dados de Clientes.
 
-- [API Pessoas](https://github.com/k3n3dfelix/api-pessoas) :computer_mouse: Api Com Finalidade de Manter Dados de Pessoas.
+- [API Pessoas](https://github.com/k3n3dfelix/api-pessoas) 👨‍👩‍👦‍👦 - Api Com Finalidade de Manter Dados de Pessoas.
 
-- [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) :computer_mouse: Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento.
+- [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) 💵 - Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento.
 
-- [Bankline API](https://github.com/k3n3dfelix/bankline-api) :computer_mouse: Api com a finalidade de fornecer um serviço financeiro.
+- [Bankline API](https://github.com/k3n3dfelix/bankline-api) 🏦 - Api com a finalidade de fornecer um serviço financeiro.
 
-- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) :computer_mouse: Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento.</b>
+- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento.</b>
 
 
 ## Front End
