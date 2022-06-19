@@ -24,11 +24,11 @@
 ## Front End
 
 ### HTML/ CSS
-- [Site Minha Cidade ](https://github.com/k3n3dfelix/Checkpoint-FrontEndI-KenedFelix) - <a href="https://k3n3dfelix.github.io/Checkpoint-FrontEndI-KenedFelix/">Link projeto publicado </a> :computer_mouse: Site simples com dados de minha cidade natal e curiosidades no curso de especialização Certified Tech Developer.
+- [Site Minha Cidade ](https://github.com/k3n3dfelix/Checkpoint-FrontEndI-KenedFelix) - <a href="https://k3n3dfelix.github.io/Checkpoint-FrontEndI-KenedFelix/">Link projeto publicado </a> 🌆 Site simples com dados de minha cidade natal e curiosidades no curso de especialização Certified Tech Developer.
  
-- [Site Cidade ](https://github.com/k3n3dfelix/Checkpoint-II-FrontEnd-I) - <a href="https://k3n3dfelix.github.io/Checkpoint-II-FrontEnd-I/">Link projeto publicado </a> :computer_mouse: Site simples com dados  e curiosidades da cidade de Florianópolis feito em grupo de 3 pessoas no curso de especialização Certified Tech Developer.
+- [Site Cidade ](https://github.com/k3n3dfelix/Checkpoint-II-FrontEnd-I) - <a href="https://k3n3dfelix.github.io/Checkpoint-II-FrontEnd-I/">Link projeto publicado </a> 🌆 Site simples com dados  e curiosidades da cidade de Florianópolis feito em grupo de 3 pessoas no curso de especialização Certified Tech Developer.
 
-- [Site DH Flix ](https://github.com/k3n3dfelix/-Checkpoint-III-FrontEnd-I) - <a href="https://k3n3dfelix.github.io/-Checkpoint-III-FrontEnd-I/">Link projeto publicado </a> :computer_mouse: Site para visualização de filmes, suas descrições e avaliações feito em grupo de 3 pessoas no curso de especialização Certified Tech Developer.
+- [Site DH Flix ](https://github.com/k3n3dfelix/-Checkpoint-III-FrontEnd-I) - <a href="https://k3n3dfelix.github.io/-Checkpoint-III-FrontEnd-I/">Link projeto publicado </a> 🎬 Site para visualização de filmes, suas descrições e avaliações feito em grupo de 3 pessoas no curso de especialização Certified Tech Developer.
 
 ### Angular
 
