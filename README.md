@@ -43,7 +43,7 @@
 - [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) - <a href="https://ken-dtmoney.herokuapp.com/">Link projeto publicado </a> :computer_mouse: Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
 
 - [Todo App](https://github.com/k3n3dfelix/Todos-App) 📝 Aplicação para manter um controle de atividades principais a fazer no dia.
-- 
+ 
 - [Watch Me](https://github.com/k3n3dfelix/Watch-Me) 📽 Aplicação para visualização de filmes por categorias, suas classificações e tempo.
 
 - [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - <b>Em Desenvolvimento</b>.
