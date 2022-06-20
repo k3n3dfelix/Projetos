@@ -32,9 +32,9 @@
 
 ### Angular
 
-- [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> :computer_mouse: App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
+- [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> 🏦 App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
 
-- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) :computer_mouse: Sistema para consumo da API de gerenciamento financeiro Algamoney - <b>Em Desenvolvimento</b>.
+- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) 💵 Sistema para consumo da API de gerenciamento financeiro Algamoney - <b>Em Desenvolvimento</b>.
 
 
 ### React
