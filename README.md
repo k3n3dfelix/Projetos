@@ -62,7 +62,7 @@
 
 #### PHP
 
-- [Agend](https://github.com/k3n3dfelix/sis_agendamento) 👨‍🏫 <a href="http://sisagendamento.herokuapp.com/login">Link projeto publicado </a> :computer_mouse: Sistema de Agendamento de Aulas.
+- [Agend](https://github.com/k3n3dfelix/sis_agendamento) - <a href="http://sisagendamento.herokuapp.com/login">Link projeto publicado </a> 👨‍🏫 Sistema de Agendamento de Aulas.
 
 #### JavaScript
 
