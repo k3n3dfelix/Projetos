@@ -1,5 +1,5 @@
 # ![Projetos](projetos.jpg)
-
+<!-- - [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - <b>Em Desenvolvimento</b>. -->
 ## 🖱️ Projetos 
 
 1. [Back-End](#back-end)
@@ -18,7 +18,7 @@
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) 🏦 - Api com a finalidade de fornecer um serviço financeiro.
 
-- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento.</b>
+- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento(Pausado).</b>
 
 
 ## Front End
@@ -34,7 +34,7 @@
 
 - [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> 🏦 App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
 
-- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) 💵 Sistema para consumo da API de gerenciamento financeiro Algamoney - <b>Em Desenvolvimento</b>.
+- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) 💵 Sistema para consumo da API de gerenciamento financeiro Algamoney - <b>Em Desenvolvimento(Pausado)</b>.
 
 
 ### React
@@ -46,11 +46,11 @@
  
 - [Watch Me](https://github.com/k3n3dfelix/Watch-Me) 📽 Aplicação para visualização de filmes por categorias, suas classificações e tempo.
 
-- [WidBack](https://github.com/k3n3dfelix/NLW-Return) :computer_mouse: Widget para ser adicionado a sites para receber feedbacks apontando melhorias ou correções  - <b>Em Desenvolvimento</b>.
-
 - [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações.
 
-- [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) :computer_mouse: Aplicação com finalidade de manter um catalogo de produtos na WEb. <b>-Em Desenvolvimento </b>
+- [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) :computer_mouse: Aplicação com finalidade de manter um catalogo de produtos na WEb. <b>-Em Desenvolvimento(Pausado)</b>
+
+- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos. <b>-Em Desenvolvimento </b>
 
 ## Full Stack
 
@@ -58,7 +58,7 @@
 
 - [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) :computer_mouse: Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
 
-- [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - <b>Em Desenvolvimento</b>.
+- [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - <b>Em Desenvolvimento(Pausado)</b>.
 
 #### PHP
 
