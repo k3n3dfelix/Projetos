@@ -14,11 +14,11 @@
 
 - [API Pessoas](https://github.com/k3n3dfelix/api-pessoas) 👨‍👩‍👦‍👦 - Api Com Finalidade de Manter Dados de Pessoas.
 
-- [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) 💵 - Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento.
+- [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) 💵 - Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento(Pausado).
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) 🏦 - Api com a finalidade de fornecer um serviço financeiro.
 
-- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - <b>Em Desenvolvimento(Pausado).</b>
+- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - Em Desenvolvimento(Pausado).
 
 
 ## Front End
@@ -34,7 +34,7 @@
 
 - [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> 🏦 App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
 
-- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) 💵 Sistema para consumo da API de gerenciamento financeiro Algamoney - <b>Em Desenvolvimento(Pausado)</b>.
+- [Algamoney System](https://github.com/k3n3dfelix/algamoney-system) 💵 Sistema para consumo da API de gerenciamento financeiro Algamoney - Em Desenvolvimento(Pausado).
 
 
 ### React
@@ -48,9 +48,9 @@
 
 - [DS Movie](https://github.com/k3n3dfelix/DsMovie/tree/main/frontend) :computer_mouse: Aplicação com finalidade de consumir uma API cadastro de filmes e suas avaliações.
 
-- [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) :computer_mouse: Aplicação com finalidade de manter um catalogo de produtos na WEb. <b>-Em Desenvolvimento(Pausado)</b>
+- [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) :computer_mouse: Aplicação com finalidade de manter um catalogo de produtos na WEb. -Em Desenvolvimento(Pausado).
 
-- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos. <b>-Em Desenvolvimento </b>
+- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos.<b> - Em Desenvolvimento. </b>
 
 ## Full Stack
 
@@ -58,7 +58,7 @@
 
 - [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) :computer_mouse: Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
 
-- [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - <b>Em Desenvolvimento(Pausado)</b>.
+- [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - Em Desenvolvimento(Pausado).
 
 #### PHP
 
