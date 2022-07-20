@@ -40,7 +40,7 @@
 ### React
 - [GitHub Explorer](https://github.com/k3n3dfelix/RocketSeat/tree/main/reactjs/01-github-explorer) 🧐 Consumo de uma API do GitHub.
 
-- [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) - <a href="https://ken-dtmoney.herokuapp.com/">Link projeto publicado </a> :computer_mouse: Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
+- [DT Money](https://github.com/k3n3dfelix/RocketSeat/tree/main/dtmoney) - <a href="https://ken-dtmoney.herokuapp.com/">Link projeto publicado </a> 💵 Aplicação para manter um controle financeiro com entradas e saidas e suas devidas descrições.
 
 - [Todo App](https://github.com/k3n3dfelix/Todos-App) 📝 Aplicação para manter um controle de atividades principais a fazer no dia.
  
