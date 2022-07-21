@@ -66,5 +66,5 @@
 
 #### JavaScript
 
-- [To-Do App](https://github.com/knowther/todo-listapp) - <a href="https://knowther.github.io/todo-listapp/">Link projeto publicado </a> :computer_mouse: Sistema de controle de tarefas a fazer.
+- [To-Do App](https://github.com/knowther/todo-listapp) - <a href="https://knowther.github.io/todo-listapp/">Link projeto publicado </a> 📑 Sistema de controle de tarefas a fazer.
 - [Venda Veiculos](https://github.com/k3n3dfelix/CheckpointI-FrontEndII) - <a href="https://k3n3dfelix.github.io/CheckpointI-FrontEndII/">Link projeto publicado </a> :computer_mouse: Aplicação simples para efetuar o cadastro de veiculos que serão disponibilizados para venda desenvolvido no curso de especialização Certified Tech Developer.
