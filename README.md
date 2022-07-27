@@ -56,7 +56,7 @@
 
 #### Java
 
-- [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) :computer_mouse: Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
+- [Aplicação Eventos](https://github.com/k3n3dfelix/Event-App) 🎫 Sistema Web Simples para Gerenciamento de Eventos e seus convidados.
 
 - [Brewer](https://github.com/k3n3dfelix/Brewer) 🍺 Sistema Web Gerenciamento de Vendas de Bebidas - Em Desenvolvimento(Pausado).
 
