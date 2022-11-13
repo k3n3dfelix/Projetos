@@ -34,6 +34,9 @@
 
 - [Site DH Flix ](https://github.com/k3n3dfelix/-Checkpoint-III-FrontEnd-I) - <a href="https://k3n3dfelix.github.io/-Checkpoint-III-FrontEnd-I/">Link projeto publicado </a> 🎬 Site para visualização de filmes, suas descrições e avaliações feito em grupo de 3 pessoas no curso de especialização Certified Tech Developer.
 
+- [Site Brafé ](https://github.com/k3n3dfelix/Brafe) - <a href="https://k3n3dfelix.github.io/Brafe/">Link projeto publicado </a> ☕ Site institucional de uma empresa de café.
+
+
 ### Angular
 
 - [Bankline App](https://github.com/k3n3dfelix/bankline-app) - <a href="https://ken-bankline-app.herokuapp.com/movimentacoes"> Link projeto publicado </a> 🏦 App Web com a finalidade de consumir uma api de serviço financeiro Bankiline API.
