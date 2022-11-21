@@ -82,3 +82,5 @@
 
 - [Go Finances](https://github.com/k3n3dfelix/gofinances) -  💵 App com finalidade de gerenciar uma carteira financeira em dispositivos móveis.
 - [RentX](https://github.com/k3n3dfelix/Rentx) -  🚗 App com finalidade de gerenciamento de aluguel  de carros.
+- [Waiter-App](https://github.com/k3n3dfelix/waiter-app) -  🍽 App com a finalidade de controle de anotações de pedidos em um restaurante
+
