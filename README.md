@@ -59,6 +59,8 @@
 
 - [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos.<b> - Em Desenvolvimento. </b>
 
+- [Waiter dash ](https://github.com/k3n3dfelix/waiter-dash) 🎛 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo . </b>
+
 ## Full Stack
 
 #### Java
