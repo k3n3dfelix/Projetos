@@ -61,6 +61,8 @@
 
 - [Waiter dash ](https://github.com/k3n3dfelix/waiter-dash) 🎛 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo . </b>
 
+- [Crud + Material UI ](https://github.com/k3n3dfelix/crud-react-materialui) 👤 App para manter um cadastro de pessoas e endereços . </b>
+
 ## Full Stack
 
 #### Java
