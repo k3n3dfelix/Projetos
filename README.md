@@ -11,7 +11,7 @@
 
 ### Java
 
-- [API Alga-CRM](https://github.com/k3n3dfelix/algacrm-api) 👨‍💻 - Api simples Com Finalidade de Manter Dados de Clientes.
+- [API Alga - CRM](https://github.com/k3n3dfelix/algacrm-api) 👨‍💻 - Api simples Com Finalidade de Manter Dados de Clientes.
 
 - [API Pessoas](https://github.com/k3n3dfelix/api-pessoas) 👨‍👩‍👦‍👦 - Api Com Finalidade de Manter Dados de Pessoas.
 
@@ -24,7 +24,7 @@
 - [DS Catalog API](https://github.com/k3n3dfelix/DsCatalog-Api) 🛒 - Api com a finalidade de fornecer um serviço de disponibilização de um Catalogo de Produtos.
 
 ### Node Js
-- [My Contacts API](https://github.com/k3n3dfelix/MyContacts-Api) 📞 - Api com a finalidade de fornecer um serviço contatos pessoais - <b> - Em Desenvolvimento. </b>
+- [My Contacts API](https://github.com/k3n3dfelix/MyContacts-Api) 📞 - Api com a finalidade de fornecer um serviço contatos pessoais.
 ## Front End
 
 ### HTML/ CSS
@@ -57,7 +57,7 @@
 
 - [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) 🛒 Aplicação com finalidade de manter um catalogo de produtos na WEb. -Em Desenvolvimento(Pausado).
 
-- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos.<b> - Em Desenvolvimento. </b>
+- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos. - Em Desenvolvimento(Pausado). 
 
 - [Waiter dash ](https://github.com/k3n3dfelix/waiter-dash) 🎛 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo . </b>
 
@@ -78,6 +78,7 @@
 #### JavaScript
 
 - [To-Do App](https://github.com/knowther/todo-listapp) - <a href="https://knowther.github.io/todo-listapp/">Link projeto publicado </a> 📑 Sistema de controle de tarefas a fazer.
+
 - [Venda Veiculos](https://github.com/k3n3dfelix/CheckpointI-FrontEndII) - <a href="https://k3n3dfelix.github.io/CheckpointI-FrontEndII/">Link projeto publicado </a> 🚙 Aplicação simples para efetuar o cadastro de veiculos que serão disponibilizados para venda desenvolvido no curso de especialização Certified Tech Developer.
 
 ## Mobile
