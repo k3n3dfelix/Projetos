@@ -63,6 +63,8 @@
 
 - [Crud + Material UI ](https://github.com/k3n3dfelix/crud-react-materialui) 👤 App para manter um cadastro de pessoas e endereços . </b>
 
+- [ DashGo ](https://github.com/k3n3dfelix/DashGo) 📉 Aplicação com finalidade de fornecer um recurso de DashBoard . </b>
+
 ## Full Stack
 
 #### Java
