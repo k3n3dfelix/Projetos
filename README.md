@@ -83,6 +83,9 @@
 
 - [Venda Veiculos](https://github.com/k3n3dfelix/CheckpointI-FrontEndII) - <a href="https://k3n3dfelix.github.io/CheckpointI-FrontEndII/">Link projeto publicado </a> 🚙 Aplicação simples para efetuar o cadastro de veiculos que serão disponibilizados para venda desenvolvido no curso de especialização Certified Tech Developer.
 
+#### JavaScript E Java
+ - [Hoteis Transilvania](https://github.com/k3n3dfelix/transilvania-hoteis) -  O Transilvania Hoteis é um site com finalidade de reserva de produtos para hospedagem, levando ao cliente uma opção de encontrar uma estadia de forma rápida e simplificada.
+
 ## Mobile
 
 #### React Native
