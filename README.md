@@ -25,6 +25,7 @@
 
 ### Node Js
 - [My Contacts API](https://github.com/k3n3dfelix/MyContacts-Api) 📞 - Api com a finalidade de fornecer um serviço contatos pessoais.
+- [FinApi](https://github.com/k3n3dfelix/FinApi) 💼 - Api com a finalidade de fornecer serviços de controle de contas bancárias.
 ## Front End
 
 ### HTML/ CSS
