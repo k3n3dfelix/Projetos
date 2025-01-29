@@ -91,7 +91,8 @@
 
 #### React Native
 
-- [Ig Finances](https://github.com/k3n3dfelix/igfinances) -  💵 App com finalidade de gerenciar uma carteira financeira em dispositivos móveis.
+- [IgFinances](https://github.com/k3n3dfelix/igfinances) -  💵 App com finalidade de gerenciar uma carteira financeira em dispositivos móveis.
 - [RentX](https://github.com/k3n3dfelix/Rentx) -  🚗 App com finalidade de gerenciamento de aluguel  de carros.
 - [Waiter-App](https://github.com/k3n3dfelix/waiter-app) -  🍽 App com a finalidade de controle de anotações de pedidos em um restaurante
+- [IgTeams](https://github.com/k3n3dfelix/igteams) -  🎮 App com finalidade de gerenciar turmas de jogos
 
