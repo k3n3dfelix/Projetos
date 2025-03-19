@@ -15,11 +15,11 @@
 
 - [API Pessoas](https://github.com/k3n3dfelix/api-pessoas) 👨‍👩‍👦‍👦 - Api Com Finalidade de Manter Dados de Pessoas.
 
-- [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) 💵 - Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento(Pausado).
+<!-- - [API AlgaMoney](https://github.com/k3n3dfelix/algamoney-api) 💵 - Api de um Sistema de Gestão Financeira(algamoney-api) do Curso de Java Full Stack Angular e Spring da Algaworks -  Em Desenvolvimento(Pausado). -->
 
 - [Bankline API](https://github.com/k3n3dfelix/bankline-api) 🏦 - Api com a finalidade de fornecer um serviço financeiro.
 
-- [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - Em Desenvolvimento(Pausado).
+<!-- - [DS Movie API](https://github.com/k3n3dfelix/DsMovie/tree/main/backend) 📺 - Api com a finalidade de fornecer um serviço de cadastro e avaliações de filmes - Em Desenvolvimento(Pausado). -->
 
 - [DS Catalog API](https://github.com/k3n3dfelix/DsCatalog-Api) 🛒 - Api com a finalidade de fornecer um serviço de disponibilização de um Catalogo de Produtos.
 
@@ -59,7 +59,7 @@
 
 - [DS Catalog](https://github.com/k3n3dfelix/DsCatalog) 🛒 Aplicação com finalidade de manter um catalogo de produtos na WEb. -Em Desenvolvimento(Pausado).
 
-- [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos. - Em Desenvolvimento(Pausado). 
+<!-- - [My Contacts](https://github.com/k3n3dfelix/MyContacts) 📞 Aplicação web para organização de informações de contatos. - Em Desenvolvimento(Pausado). -->
 
 - [Waiter dash ](https://github.com/k3n3dfelix/waiter-dash) 🎛 Aplicação web com a finalidade de gerenciar o recebimento de pedidos de um restaurante feito por um aplicativo . </b>
 
